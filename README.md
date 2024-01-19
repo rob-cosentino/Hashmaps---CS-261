@@ -1,3 +1,5 @@
+# CS261: Data Structures Final Project. Oregon State University
+
 # Hash Map Implementations
 This repository contains Python implementations of the hash map data structure using two different collision resolution strategies: Separate Chaining and Quadratic Probing. Both implementations utilize a dynamic array and hash functions to efficiently store and retrieve key-value pairs.
 
